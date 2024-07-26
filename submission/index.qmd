@@ -2,18 +2,18 @@
 submission_id: 463
 title: transcriptiones – Create, Share and Access Transcriptions of Historical Manuscripts
 author:
-  - name: Dominic Weber
-    orcid: 0000-0002-9265-3388
-    email: dominic.weber@unibe.ch
-    affiliations:
-      - University of Bern
-      - University of Basel
   - name: Yvonne Fuchs
     orcid: 0009-0007-4545-606X
     email: yvonne.fuchs@unibas.ch
     affiliations:
       - University of Basel
       - University of Lucerne
+  - name: Dominic Weber
+    orcid: 0000-0002-9265-3388
+    email: dominic.weber@unibe.ch
+    affiliations:
+      - University of Bern
+      - University of Basel
 keywords:
   - Transcriptions
   - Open Research Data
